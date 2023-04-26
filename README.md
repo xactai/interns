@@ -3,13 +3,13 @@
 
 
 
-#requirements.txt :
+##requirements.txt :
 
 >>>> python3 -m pip install requirements.txt
 
 
 
-#run-program:
+##run-program:
 
 >>>> python3 407-Person-Detection-ReID-Video-Time-OCR.py
 
@@ -17,7 +17,7 @@
 
 * The Lines and Centroids are in the funtion [ draw_boxes ] in 407-Person-Detection-ReID-Video-Time-OCR.py
 
-#Lines :
+##Lines :
 
 * Y-ref is the reference line in the video [Yellow line]
 >>>>  Here Y- ref is the reference line for the footroid which the value is 290
@@ -32,7 +32,7 @@
 
 
 
-#Centroids :
+##Centroids :
 
 * Red : Which is appreaingthe person in between above Y-up(pink)line and top of the video
 
@@ -44,7 +44,7 @@
 
 
 
-#Inputs :
+##Inputs :
 
 * Video : You can give the entire path of the video in [video_file] value
 
@@ -52,14 +52,14 @@
 
 
 
-#Time_Filter.py :
+##Time_Filter.py :
 
 >>>> This file  which is used for detecting the time-stamp in the video/image 
 >>>> It is only show the outputin the format of text(ie uncomment [ print(txts) ]  in Time_filter.py)
 
 
 
-#407-Person-Detection-ReID-Video-Time-OCR.py
+##407-Person-Detection-ReID-Video-Time-OCR.py
 
 * run_person_tracking :
 
