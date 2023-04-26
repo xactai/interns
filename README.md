@@ -1,6 +1,6 @@
 # ### 407-Person-Detection-ReID-Video-Time-OCR.py
 >>>> Install OpenVINO from the official website.
-
+> https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/download.html
 
 
 ### requirements.txt :
