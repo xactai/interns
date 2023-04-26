@@ -46,7 +46,7 @@
 
 ### Inputs :
 
-* Video : You can give the entire path of the video in [video_file] value
+* Video : You can give the entire path of the video in "video_file" value
 
 * RTSP : You can give the entire link of the RTSP streem in [video_file] value
 
@@ -61,12 +61,15 @@
 
 ### 407-Person-Detection-ReID-Video-Time-OCR.py
 
-* run_person_tracking :
+* run_person_tracking() :
 
 >>>> This is the main function which is useed to run the program.
 >>>> source is input of  function 
 >>>> flip is used to rotate the video in 180 Degrees.
->>>> The use_popup is true we can see the output in the popup window  if it is false we can't see the output video only results prin5ted 	    in the terminal.
+>>>> The use_popup is true we can see the output in the popup window  if it is false we can't see the output video only results printed in the terminal.
 
+* draw_boxes() :
+
+>>>> In this function we can draw the boxes of each person and also draw the cetroids of recrangles and reference lines [which are already provides in the comment section in the program ]
 
 
