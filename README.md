@@ -46,16 +46,16 @@
 
 ### Inputs :
 
-* Video : You can give the entire path of the video in "video_file" value
+* Video : You can give the entire path of the video in " video_file " value
 
-* RTSP : You can give the entire link of the RTSP streem in [video_file] value
+* RTSP : You can give the entire link of the RTSP streem in " video_file " value
 
 
 
 ### Time_Filter.py :
 
 >>>> This file  which is used for detecting the time-stamp in the video/image 
->>>> It is only show the outputin the format of text(ie uncomment [ print(txts) ]  in Time_filter.py)
+>>>> It is only show the outputin the format of text(ie uncomment " print(txts) " in Time_filter.py)
 
 
 
@@ -70,6 +70,6 @@
 
 * draw_boxes() :
 
->>>> In this function we can draw the boxes of each person and also draw the cetroids of recrangles and reference lines [which are already provides in the comment section in the program ]
+>>>> In this function we can draw the boxes of each person and also draw the cetroids of recrangles and reference lines (which are already provides in the comment section in the program )
 
 
