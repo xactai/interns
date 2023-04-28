@@ -1,0 +1,10 @@
+jupyter==1.0.0
+python-time==0.3.0
+os-sys==2.1.4
+pathlib==1.0.1
+opencv-python==4.7.0.68
+matplotlib==3.6.2
+numpy==1.24.1
+ipython==8.8.0
+openvino==2022.2.0
+nbutils==0.1.dev0
